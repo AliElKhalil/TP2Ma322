@@ -38,5 +38,7 @@ def Pendule_linearise(w0, A, phi, h, Ta):        #Ta est le temps d'acquisition
     plt.show()
     
 
+    
+
 
 
